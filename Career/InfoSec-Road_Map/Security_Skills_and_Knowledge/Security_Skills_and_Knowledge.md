@@ -1,0 +1,49 @@
+- [[Blue_Team]] vs [[Red_Team]] vs [[Purple_Team]]
+- [[False_Negative]] / [[False_Positive]] vs [[True_Negative]] / [[True_Positive]]
+- [[Basics_of_Threat_Intel]] & [[OSINT]]
+- Understand different [[Handshakes]]
+- Understand [[CIA]] Triad
+- [[Privilege_Escalation]] / [[Escalation_of_Privilege]] / [[Local_Privilege_Escalation]]
+- [[OWASP]] top 10
+- [[Malware]] ([[Malware_Index]])
+- Core concept of [[Zero_Trust]]
+- Roles of [[Compliance]] & [[Audit_Trail]]
+- Understand the definitions of [[Risk]]
+- Understand [[Backup]] & [[Resiliency]]
+- [[Cyber_Kill_Chain]]
+- [[MFA]] & [[2FA]]
+- [[OS-Hardening]]
+- Understand the concept of [[Isolation]]
+- Basics of [[IDS]] & [[IPS]]
+- How [[Honeypot]]s work
+- [[Authentication]] vs [[Authorization]]
+
+- Understand [[Common_Hacking_Tools]]
+- Understand [[Common_Exploit_Frameworks]]
+- Understand Concepts of [[Defense-in-Depth]]
+- Understand the Concepts of [[Runbook]]s
+- Basics of [[Forensics]]
+- Basics and Concepts of [[Threat_Hunting]]
+- Basics of [[Vulnerability_Management]]
+- Basics of [[Reverse_Engineering]]
+- [[Penetration_Testing]] / [[Penetration_Test]] [[Rules_of_Engagement]]
+- [[Perimiter]] vs [[DMZ]] vs [[Segmentation]]
+
+- [[Attack_Types_and_Differences]]
+- [[Common_Network_Based_Attacks]]
+- Understand [[Audience]]
+- Understand [[Commons_Tools]]
+- [[Basics_of_Cryptography]]
+- Understand [[Secure_vs_Unsecure_Protocols]]
+- Understand [[Advanced_Security_Terms]]
+- Understand [[IRP]] Process
+- Understand [[Threat_Classification]]
+- [[Tools_For_Incident_Response_and_Discovery]]
+- Understand [[Frameworks]]
+- Understand [[Common_Standards]]
+- Understand [[SIEM]] vs [[SOAR]]
+- [[Common_Distros_For_Hacking]]
+- Using [[LOLBAS]]
+- Learn how to find and use these [[Logs]]
+- Understand [[Hardening_Concepts]]
+

@@ -1,0 +1,1 @@
+A mail exchanger record specifies the mail server responsible for accepting email messages on behalf of a domain name. It is a resource record in the Domain Name System. It is possible to configure several [[MX_Record]]s, typically pointing to an array of mail servers for load balancing and redundancy.

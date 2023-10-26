@@ -1,0 +1,1 @@
+.filter() is just like .map however it relies on a truthy structure. So it will also create a new array of elements that pass through the function and get set to the parameter however the function will only allow the parameter to be passed through if it equates to true.

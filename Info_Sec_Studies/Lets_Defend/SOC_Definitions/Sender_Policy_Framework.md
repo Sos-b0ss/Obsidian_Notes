@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Sender_Policy_Framework
+Sender Policy Framework is an email authentication method designed to detect forging sender addresses during the delivery of the email. SPF alone, though, is limited to detecting a forged sender claim in the envelope of the email, which is used when the mail gets bounced.

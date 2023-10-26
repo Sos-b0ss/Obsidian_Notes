@@ -1,0 +1,14 @@
+Check out:
+---
+- [[Cracking_The_Coding_Interview]]
+- [[The_Algorithm_Design_Manual]]
+- [[Structure_and_Interpretation_on_Computer_Programs]]
+- [[Designing_Data-Intensive_Applications]]
+- [[Clean_Code:_A_Handbook_of_Agile_Software_Craftsmanship]]
+- [[The_Original_Design_Patterns]]
+- [[Refactoring_Martin_Fowler]]
+- [[Suppes_Introduction_to_Logic]]
+- [[Javascript_&_JQuery]]
+- [[HTML_&_CSS]]
+- [[Eloquent_Javascript]]
+- [[Algorithms+Data_structures_Equal_Programs]]

@@ -1,0 +1,11 @@
+Sources:
+- https://www.youtube.com/watch?v=HVdMhKN2ng4
+	- Intro to react Database connections
+- https://www.youtube.com/watch?v=IDHfvpsYShs
+	- Fast react website deployment with firebase
+- https://medium.com/innovance-company-blog/how-to-connect-firebase-realtime-database-to-a-react-app-f7dcb983150a
+	- How to connect firebase realtime database to a React app
+- https://sebhastian.com/react-firebase-real-time-database-guide/
+	- Firebase as simple database to React app
+- https://www.youtube.com/watch?v=0buKQHokLK8
+	- How do NoSQL databases work - Simply explained

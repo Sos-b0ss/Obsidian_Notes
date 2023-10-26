@@ -1,0 +1,4 @@
+- [[NFC]]
+- [[Wi-Fi]]
+- [[Bluetooth]]
+- [[Infrared]]

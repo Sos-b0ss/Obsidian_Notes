@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Pan-tilt-zoom_camera
+A pan–tilt–zoom camera is a camera that is capable of remote directional and zoom control. In television production, PTZ controls are used with professional video cameras in television studios, sporting events, and other spaces. They are commonly referred to as robos, an abbreviation of robotic camera.

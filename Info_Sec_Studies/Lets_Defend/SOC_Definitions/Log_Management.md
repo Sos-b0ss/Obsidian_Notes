@@ -1,0 +1,2 @@
+
+If you have any kind of [[IOC]] such as a file hash, file name, etc. you can perform a search in [[EDR]] among all hosts and see if there is a match. For example, let’s say you are sure that a device has been hacked and you have obtained a file with an MD5 hash of “ac596d282e2f9b1501d66fce5a451f00”. You can search for this hash value in [[EDR]] and determine whether this file is present or executed on other devices. Therefore you can understand who was affected by this attack.

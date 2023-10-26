@@ -1,0 +1,2 @@
+- Package registry like npm
+- Publishing a new package/crate

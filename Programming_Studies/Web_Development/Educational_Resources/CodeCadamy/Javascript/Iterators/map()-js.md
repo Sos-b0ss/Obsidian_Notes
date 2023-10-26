@@ -1,0 +1,1 @@
+If we wish to be able to change the array we refer to we can use .map(). when we use this method in a function it will create a new separate array that contains everything the function sets the parameter equal to.

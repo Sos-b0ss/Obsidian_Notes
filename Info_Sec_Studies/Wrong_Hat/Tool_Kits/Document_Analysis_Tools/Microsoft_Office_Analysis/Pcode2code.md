@@ -1,0 +1,4 @@
+Sources:
+https://github.com/Big5-sec/pcode2code
+\
+In 2019, [EvilClippy](https://github.com/outflanknl/EvilClippy) tool made easily available for any attacker to dispose of an Office document where the macro code is transformed directly into bytecode. For any reference, please check [this](https://medium.com/walmartlabs/vba-stomping-advanced-maldoc-techniques-612c484ab278) or [this](https://vbastomp.com/). To be able to analyze such "stomped" documents, Dr. Bontchev ([@VessOnSecurity](https://twitter.com/VessOnSecurity)) released [pcodedmp](https://github.com/bontchev/pcodedmp), a tool printing out the VBA bytecode of a document in a readable manner. However, the output might be still hardly readable and analyzable (please check out macaroni in tests folder). As such, pcode2code decompiles, based on [pcodedmp](https://github.com/bontchev/pcodedmp)'s output, the VBA code.

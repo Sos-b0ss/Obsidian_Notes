@@ -1,0 +1,1 @@
+A common professional [[DAST 2]] tool that is helpful for vulnerability scanning tools that leverage open source libraries and use more commonly used for apps running with npm, Maven, NuGet, RubyGems, or PyPI

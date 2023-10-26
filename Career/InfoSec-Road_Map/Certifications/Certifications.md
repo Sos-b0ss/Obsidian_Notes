@@ -1,0 +1,17 @@
+Beginner Certs:
+	- CompTIA A+
+	- CompTIA Linux+
+	- CompTIA Network+
+	- CCNA
+	- CompTIA Security+
+- Advanced Certs:
+	- CISSP
+	- CISA
+	- CISM
+	- GSEC
+	- GPEN
+	- GWAPT
+	- GIAC
+	- OSCP
+	- CREST
+	- CEH

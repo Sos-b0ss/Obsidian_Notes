@@ -1,0 +1,8 @@
+[[Rust-First_Projects]]
+[[Rust_Command-line_Utilities]]
+[[Rust_To-do_List]]
+[[Rust_Budget_Manager]]
+[[Rust_TUI_Poker_Project]]
+[[Rust_TUI_Tarot_Project]]
+[[Rust_TUI_Regicide_Project]]
+[[Rust_TUI_Go_Project]]

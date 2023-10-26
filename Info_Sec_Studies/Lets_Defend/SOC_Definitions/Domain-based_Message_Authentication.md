@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/DMARC
+[[DMARC]] stands for Domain Message Authentication Reporting and Conformance, it is an email authentication protocol. It is designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email [[Spoofing]]. The purpose and primary outcome of implementing [[DMARC]] is to protect a domain from being used in business email compromise attacks, [[Phishing]] email, email scams and other cyber threat activities.
+\
+[[DMARC]] is an email authentication protocol. It is designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email [[Spoofing]]. The purpose and primary outcome of implementing [[DMARC]] is to protect a domain from being used in business email compromise attacks, phishing email, email scams and other cyber threat activities.

@@ -1,0 +1,2 @@
+Example of obfuscation:
+write_message_into_babel>append_babel_location_to_textfile>steghide_the_textfile_with_password(password_is_the_month_{days}_before_the_date_the_message_is_written+{year})>upload_file_to_drive>shorten_link_with_tinyurl>name_obf_message_tinyurl_address+current_date.txt

@@ -1,0 +1,16 @@
+Sources:
+https://www.howtogeek.com/devops/how-to-run-mongodb-in-a-docker-container/
+\
+https://www.bmc.com/blogs/mongodb-docker-container/
+\
+https://hub.docker.com/_/mongo/
+\
+https://www.mongodb.com/docs/launch-manage/
+\
+https://www.mongodb.com/docs/mongodb-vscode/
+\
+https://university.mongodb.com/courses/M001/about
+\
+https://www.mongodb.com/community/forums/t/triggers-for-onpremise-mongodb/15277
+\
+https://medium.com/medialesson/working-with-mongodb-on-premises-and-cloud-environments-4551ca284b76

@@ -1,0 +1,58 @@
+
+# Comp-Sci Studying:
+- [[PDF_Lesson_Collection]]
+- [[Must_Know_Data_Structures]]
+- [[Discrete_Maths]]
+- [[Data_Structures_and_Algorithms]]
+- [[Harvard's_CS50_Course_Notes]]
+- [[No_Stress_Programming_Reading]]
+- [[Rust_Studies]]
+- [[Rust_Codecademy_lessons]]
+- [[Web_Dev_101_Index]]
+- [[Computer_Science_101_Index]]
+- [[Database_Paradigms_Index]]
+- [[Design_Patterns_Index]]
+- [[Programming_Studies/Python/Machine_Learning_Algorithms|Machine_Learning_Algorithms]]
+
+# Programming Projects:
+- [[Rust_Projects]]
+- [[Rust_Cheatsheets]]
+- [[Rust_Design_Patterns]]
+- [[JavaScript_Projects]]
+- [[Python_Projects]]
+- [[Shell_Projects]]
+- [[Rust-Roadmap]]
+- [[Rust_Codecademy_lessons]]
+
+# Info-Sec Studying:
+- [[InfoSec-Roadmap]]
+- [[Doc_Analysis_Index]]
+- [[Comptia_Sec+_Exam_Domains]]
+- [[Important_Common_Ports]]
+- [[Acronyms_Flashcards]]
+- [[Malware_Index]]
+- [[Active_Directory_Index]]
+- [[Types_of_Network_Topology_Index]]
+- [[Forensics_Index]]
+- [[Webapp_Security_Index]]
+- [[Professor_Messer_Index]]
+- [[Professor_Dions_Index]]
+- [[Lets_Defend_Index]]
+- [[Firewall_Pentesting]]
+- [[Blueteam_Tooling]]
+- [[Threat_Hunting]]
+- [[Network_Attacks]]
+
+# Info-Sec Tools:
+- [[Cisa_list_of_Tools]]
+- [[40_Common_Windows_Commands]]
+- [[Useful_Webtools]]
+- [[RE_Tools_Index]]
+- [[Red_Kit_Index]]
+- [[Red-Team_Search_Engines]]
+
+# Career Focus:
+- [[Job_Prospects]]
+- [[Blue_Team_Level_1_Certification]]
+- [[Cloud_Data_Security_Best_Practices]]
+- [[InfoSec-Roadmap]]

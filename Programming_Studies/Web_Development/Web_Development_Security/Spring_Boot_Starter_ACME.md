@@ -1,0 +1,1 @@
+This is as useful starter for [[Spring_Boot]] this leverages [[Lets_Encrypt]]'s protocol to automate renewing certificates.

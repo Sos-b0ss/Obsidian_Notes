@@ -1,0 +1,4 @@
+Sources:
+https://sectools.org/tool/openvpn/
+\
+[[OpenVPN]] is an open-source [[SSL]] [[VPN]] package which can accommodate a wide range of configurations, including remote access, site-to-site [[VPN]]s, [[Wi-Fi]] security, and enterprise-scale remote access solutions with a function to act as a [[Load_Balancer]], failover, and fine-grained access-controls. [[OpenVPN]] implements [[OSI]] layer 2 or 3 secure [[Network]] extension using the industry standard [[SSL]]/[[TLS]] protocol, supports flexible client [[Authentication]] methods based on certificates, smart cards, and/or 2-factor authentication, and allows user or group-specific access control policies using firewall rules applied to the [[VPN]] virtual interface. [[OpenVPN]] uses [OpenSSL](https://sectools.org/tool/openssl/) as its primary cryptographic library. [Read 2 reviews.](https://sectools.org/tool/openvpn/#comments).

@@ -1,0 +1,2 @@
+https://www.techtarget.com/searchnetworking/definition/Port-Address-Translation-PAT
+**Port** **Address** **Translation** (PAT), is an extension to network **address** **translation** (NAT) that permits multiple devices on a local area network (LAN) to be mapped to a single public IP **address** . The goal of PAT is to conserve IP addresses.

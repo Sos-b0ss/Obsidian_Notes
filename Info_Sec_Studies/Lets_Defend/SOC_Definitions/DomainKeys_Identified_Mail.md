@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail
+DomainKeys Identified Mail is an email authentication method designed to detect forged sender addresses in email, a technique often used in phishing and email spam. DKIM allows the receiver to check that an email claimed to have come from a specific domain was indeed authorized by the owner of that domain.

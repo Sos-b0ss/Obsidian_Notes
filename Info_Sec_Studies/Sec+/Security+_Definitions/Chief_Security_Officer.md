@@ -1,0 +1,4 @@
+Sources:
+https://en.wikipedia.org/wiki/Chief_security_officer
+\
+A chief security officer is an organization's most senior executive accountable for the development and oversight of policies and programs intended for the mitigation and/or reduction of compliance, operational, strategic, financial and reputational security risk strategies relating to the protection of people, intellectual assets and tangible property.
